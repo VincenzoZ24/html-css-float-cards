@@ -18,6 +18,10 @@
     font-weight: 600px;
     margin-bottom: 50px;
     
+}
+.container{
+   
+    
 }   
 .foto-dipendente{
     width: 80px;
@@ -25,9 +29,12 @@
     
     
 }
-.dipendente1{
+.dipendente{
     background-color: black;
-    width: 30%;
+    width: 20%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 20px;
     
     
 }
@@ -42,4 +49,5 @@ a{
     display: block;
     content: "";
     clear: both;
+    
 }
