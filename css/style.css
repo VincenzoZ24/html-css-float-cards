@@ -29,6 +29,7 @@
     background-color: black;
     width: 30%;
     
+    
 }
 .info-dipendente{
     color: white;
@@ -36,4 +37,9 @@
 }
 a{
     color: rgb(19, 209, 252);
+}
+.clearfix::after{
+    display: block;
+    content: "";
+    clear: both;
 }
