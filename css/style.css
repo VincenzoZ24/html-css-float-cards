@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titolo{
+    font-family: Roboto Mono ;
+    font-weight: 600px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    color: rgb(237, 14, 129);
+}
+.descrizione{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 600px;
+    margin-bottom: 50px;
+    
+}
