@@ -18,4 +18,22 @@
     font-weight: 600px;
     margin-bottom: 50px;
     
+}   
+.foto-dipendente{
+    width: 80px;
+    float: left;
+    
+    
+}
+.dipendente1{
+    background-color: black;
+    width: 30%;
+    
+}
+.info-dipendente{
+    color: white;
+    
+}
+a{
+    color: rgb(19, 209, 252);
 }
