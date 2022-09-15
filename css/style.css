@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    margin: auto;
+}
 
 .titolo{
     font-family: Roboto Mono ;
@@ -19,13 +22,17 @@
     margin-bottom: 50px;
     
 }
-.container{
+.container1{
+    width: 1000px;
+    margin: auto;
    
     
-}   
+}  
+
 .foto-dipendente{
     width: 80px;
     float: left;
+    margin-right: 5px;
     
     
 }
@@ -50,4 +57,7 @@ a{
     content: "";
     clear: both;
     
+}
+.dati{
+    margin-bottom: 10px;
 }
